@@ -10,7 +10,7 @@ PRODUCT_AAPT_PREF_CONFIG := xxxhdpi
 
 # Alert slider
 PRODUCT_PACKAGES += \
-    KeyHandler \
+    OplusParts \
     tri-state-key-calibrate
 
 # Audio
@@ -47,7 +47,7 @@ PRODUCT_COPY_FILES += \
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-aicp
 
 PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \

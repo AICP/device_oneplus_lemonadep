@@ -33,4 +33,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="Julian Veit (Claymore1297)"
+    DEVICE_MAINTAINERS="Julian Veit (Claymore1297),Tom Marshall (tdm)"
